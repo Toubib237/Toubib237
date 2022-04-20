@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toubib237
-- 👀 I’m interested in Machine Learning especially Deep Learning .
+- 👀 I’m interested in Machine Learning and Artificial Intelligence in general.
 - 🌱 I’m currently learning methods of Unsupervised Learning, but also supervised Learning 
 - 💞️ I’m looking to collaborate on these methods, because I intend to use unsupervised learning to provide a solution to the problem of optimizing household electricity consumption, a problem I address in my research work 
 - 📫 How to reach me: lwtokam@gmail.com and on Telegram with the name Leo Leo 
